@@ -1,0 +1,17 @@
+body {
+    background-color: #5effff;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 5em;
+    text-align: center;
+    color: #000000;
+}
+@font-face {
+    font-family: birthday;
+    src: url(birthday.ttf);
+}
+.font { font: 35px birthday;}
+/*overflow bi*/
+.overflow{
+    overflow: hidden;
+}
